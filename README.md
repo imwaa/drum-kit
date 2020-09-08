@@ -1,2 +1,2 @@
-# drum-kit
-Drim kit project made with Vanilla Javascript, HTML 5 &amp; CSS3
+<h1>Drum kit Vanilla Javascript Project</h1>
+<img src="https://i.imgur.com/hKfiaGJ.png">
